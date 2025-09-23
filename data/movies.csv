@@ -1,0 +1,11 @@
+movie_id,title,year_released,director_id
+m01,Jaws,1975,d01
+m02,E.T.,1982,d01
+m03,Inception,2010,d02
+m04,Dunkirk,2017,d02
+m05,Pulp Fiction,1994,d03
+m06,Goodfellas,1990,d04
+m07,Titanic,1997,d05
+m08,Gladiator,2000,d06
+m09,The Lord of the Rings,2001,d07
+m10,Fantastic Mr. Fox,2009,d08
