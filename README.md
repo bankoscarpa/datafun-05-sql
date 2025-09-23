@@ -61,12 +61,16 @@ Connects to movies_database.db.
 Drops existing tables, creates schema, and inserts initial records.
 
 Can be re-run to reset the database.
+![Database Initialization](images/db01_setup.png)
+
 
 db02_features.py
 
 Executes sql_features/update_records.sql and delete_records.sql.
 
 Demonstrates updates, deletes, and feature engineering.
+
+![Feature Updates](images/db02_features.png)
 
 db03_queries.py
 
@@ -75,6 +79,7 @@ Executes all SQL queries in sql_queries/.
 Prints results for aggregation, filtering, sorting, grouping, and joins.
 
 Usage
+![Query Results](images/db03_queries.png)
 
 Initialize database:
 
